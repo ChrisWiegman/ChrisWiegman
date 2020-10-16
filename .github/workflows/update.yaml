@@ -3,7 +3,7 @@ name: update
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '*/10 * * * *'
 
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Get working copy
-        uses: actions/checkout@master
+        uses: actions/checkout@main
         with:
           fetch-depth: 1
       - name: Update Readme
