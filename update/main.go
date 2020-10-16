@@ -29,7 +29,7 @@ func main() {
 	line1 := "### Hi! I am Chris Wiegman"
 	line2 := "I am a **Senior Software Engineer**, currently at **[WP Engine](https://wpengine.com/)**, devoted to improving the developer experience for WordPress developers of all kinds. My work focuses on the intersection of development, privacy, ethics and usability of software and development to help improve the lives of everyone who uses modern technology."
 	line3 := "My latest blog post is: **[" + latestPost.Title + "](" + latestPost.Link + ")**. Like this type of content? You can subscribe to my [blog](https://chriswiegman.com/) via its **[RSS feed](https://chriswiegman.com/feed/)**."
-	line4 := "<sub>Last updated: " + date + ".</sub>"
+	line4 := "<sub>Last updated: " + date + "</sub>"
 	content := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n", line1, line2, line3, line4)
 
 	// Prepare file with a light coating of os
