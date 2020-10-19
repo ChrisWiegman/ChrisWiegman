@@ -4,4 +4,4 @@ I am a **Senior Software Engineer**, currently at **[WP Engine](https://wpengine
 
 My latest blog post is: **[Trusting Lando SSL Certificates in Firefox](https://chriswiegman.com/2020/10/trusting-lando-ssl-certificates-in-firefox/)**. Like this type of content? You can subscribe to my [blog](https://chriswiegman.com/) via its **[RSS feed](https://chriswiegman.com/feed/)**.
 
-<sub>Last updated: October 18, 2020</sub>
+<sub>Last updated: October 19, 2020</sub>
