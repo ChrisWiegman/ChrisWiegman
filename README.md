@@ -6,4 +6,4 @@ My latest blog post is: **[Trusting Lando SSL Certificates in Firefox](https://c
 
 Like this type of content? Take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)** and subscribe via its **[RSS feed](https://chriswiegman.com/feed/)**.
 
-<sub>Last updated: November 17, 2020</sub>
+<sub>Last updated: November 18, 2020</sub>
