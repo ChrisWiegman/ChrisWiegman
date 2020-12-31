@@ -4,8 +4,8 @@ I am a **Senior Software Engineer**, currently at **[WP Engine](https://wpengine
 
 For a full list of my personal projects, please visit **[gitea.chriswiegman.com](https://gitea.chriswiegman.com/)**.
 
-My latest blog post is: **[Trusting Lando SSL Certificates in Firefox](https://chriswiegman.com/2020/10/trusting-lando-ssl-certificates-in-firefox/)**. 
+My latest blog post is: **[My Adventures in Leaving Big Tech – A Status Update](https://chriswiegman.com/2020/12/my-adventures-in-leaving-big-tech-a-status-update/)**. 
 
 Like this type of content? Take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)** and subscribe via its **[RSS feed](https://chriswiegman.com/feed/)**.
 
-<sub>Last updated: December 30, 2020</sub>
+<sub>Last updated: December 31, 2020</sub>
