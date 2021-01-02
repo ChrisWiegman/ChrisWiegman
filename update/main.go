@@ -20,10 +20,8 @@ func main() {
 		os.Exit(1)
 	}
 
-	// Get the freshest item
+	// Get the newest blog post
 	latestPost := feed.Items[0]
-
-	date := time.Now().Format("January 2, 2006")
 
 	// Whisk together static and dynamic content until stiff peaks form
 	line1 := "### Hi! I am Chris Wiegman"
@@ -31,11 +29,10 @@ func main() {
 	line3 := "My latest blog post is: **[" + latestPost.Title + "](" + latestPost.Link + ")**. "
 	line4 := "Like this type of content? Take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)** and subscribe via its **[RSS feed](https://chriswiegman.com/feed/)**."
 	line5 := "You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Twitter](https://twitter.com/ChrisWiegman)**."
-	line6 := "<sub>Last updated: " + date + "</sub>"
+	line6 := "<sub>Last updated: " + time.Now().Format("January 2, 2006") + "</sub>"
 
 	content := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", line1, line2, line3, line4, line5, line6)
 
-	// Prepare file with a light coating of os
 	file, err := os.Create("../README.md")
 	if err != nil {
 		log.Fatalf("error creating README.md: %v", err)
@@ -44,7 +41,6 @@ func main() {
 
 	defer file.Close()
 
-	// Bake at n bytes per second until golden brown
 	_, err = io.WriteString(file, content)
 	if err != nil {
 		log.Fatalf("error writing README.md: %v", err)
