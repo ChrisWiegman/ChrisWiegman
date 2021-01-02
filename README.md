@@ -8,6 +8,6 @@ My latest blog post is: **[Hindsight is Always 2020](https://chriswiegman.com/20
 
 Like this type of content? Take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)** and subscribe via its **[RSS feed](https://chriswiegman.com/feed/)**.
 
-You can also find me on <a href="https://mastodon.chriswiegman.com/@chris" rel="me">Mastodon</a> and [Twitter](https://twitter.com/ChrisWiegman)
+You can also find me on **<a href="https://mastodon.chriswiegman.com/@chris" rel="me">Mastodon</a>** and **[Twitter](https://twitter.com/ChrisWiegman)**.
 
 <sub>Last updated: January 2, 2021</sub>
