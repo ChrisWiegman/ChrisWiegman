@@ -31,7 +31,7 @@ func main() {
 	line3 := "For a full list of my personal projects, please visit **[gitea.chriswiegman.com](https://gitea.chriswiegman.com/)**."
 	line4 := "My latest blog post is: **[" + latestPost.Title + "](" + latestPost.Link + ")**. "
 	line5 := "Like this type of content? Take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)** and subscribe via its **[RSS feed](https://chriswiegman.com/feed/)**."
-	line6 := "You can also find me on **<a rel=\"me\" href=\"https://mastodon.chriswiegman.com/@chris\">Mastodon</a>** and **[Twitter](https://twitter.com/ChrisWiegman)**."
+	line6 := "You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Twitter](https://twitter.com/ChrisWiegman)**."
 	line7 := "<sub>Last updated: " + date + "</sub>"
 
 	content := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", line1, line2, line3, line4, line5, line6, line7)
