@@ -8,4 +8,4 @@ My latest blog post is: **[Hindsight is Always 2020](https://chriswiegman.com/20
 
 Like this type of content? Take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)** and subscribe via its **[RSS feed](https://chriswiegman.com/feed/)**.
 
-<sub>Last updated: January 1, 2021</sub>
+<sub>Last updated: January 2, 2021</sub>
