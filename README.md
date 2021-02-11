@@ -8,4 +8,4 @@ Like this type of content? Take a look at my site, **[chriswiegman.com](https://
 
 You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Twitter](https://twitter.com/ChrisWiegman)**.
 
-<sub>Last updated: February 10, 2021</sub>
+<sub>Last updated: February 11, 2021</sub>
