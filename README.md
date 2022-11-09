@@ -15,6 +15,6 @@ My latest blog post is: **[Thoughts On Mastodon and Twitter](https://chriswiegma
 
 Like this type of content? Take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)** and subscribe via its **[RSS feed](https://chriswiegman.com/feed/)**.
 
-You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)**, **[Twitter](https://twitter.com/ChrisWiegman)** and **[LinkedIn](https://www.linkedin.com/in/chriswiegman)**.
+You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Pixelfed](https:/pixelfed.chriswiegman.com)**.
 
-<sub>Last updated: November 8, 2022</sub>
+<sub>Last updated: November 9, 2022</sub>
