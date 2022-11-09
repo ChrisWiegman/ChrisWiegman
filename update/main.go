@@ -47,7 +47,7 @@ func main() {
 	line2 := "I am an **Engineering Manager** at **[WP Engine](https://wpengine.com/)**, devoted to improving the developer experience for WordPress developers of all kinds. My work focuses on the intersection of development, privacy, ethics and usability of software and development to help improve the lives of everyone who uses modern technology."
 	line3 := "My latest blog post is: **[" + latestPost.Title + "](" + latestPost.Link + ")**. "
 	line4 := "Like this type of content? Take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)** and subscribe via its **[RSS feed](https://chriswiegman.com/feed/)**."
-	line5 := "You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)**, **[Twitter](https://twitter.com/ChrisWiegman)** and **[LinkedIn](https://www.linkedin.com/in/chriswiegman)**."
+	line5 := "You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Pixelfed](https:/pixelfed.chriswiegman.com)**."
 	line6 := "<sub>Last updated: " + time.Now().Format("January 2, 2006") + "</sub>"
 
 	content := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s%s\n\n%s\n\n%s\n", line1, line2, line3, postLine, line4, line5, line6)
