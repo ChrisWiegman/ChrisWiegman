@@ -17,4 +17,4 @@ Like this type of content? Take a look at my site, **[chriswiegman.com](https://
 
 You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Pixelfed](https:/pixelfed.chriswiegman.com)** or view **[my full resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
 
-<sub>Last updated: December 14, 2022</sub>
+<sub>Last updated: December 15, 2022</sub>
