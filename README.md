@@ -2,19 +2,19 @@
 
 I am an **Engineering Manager** at **[WP Engine](https://wpengine.com/)**, devoted to improving the developer experience for WordPress developers, particularly those working on headless projects. My work, both for my day job and side projects, focuses on the intersection of development, privacy, ethics and usability of software and development to help improve the lives of everyone who uses modern technology.
 
-My latest blog post is: **[Hello 2023](https://chriswiegman.com/2023/01/hello-2023/)**. 
+My latest blog post is: **[Thoughts on moving from Ubuntu to Fedora](https://chriswiegman.com/2023/01/thoughts-on-moving-from-ubuntu-to-fedora/)**. 
 
 #### More recent posts
 
+* [Hello 2023](https://chriswiegman.com/2023/01/hello-2023/)
 * [Looking Back on 2022](https://chriswiegman.com/2022/12/looking-back-on-2022/)
 * [So Many Bad Options](https://chriswiegman.com/2022/12/so-many-bad-options/)
 * [A Tale of Finance Software Woes](https://chriswiegman.com/2022/12/a-tale-of-finance-software-woes/)
 * [Investigate Apple Alternatives for 2023](https://chriswiegman.com/2022/12/investigate-apple-alternatives-for-2023/)
-* [Ready For A Break](https://chriswiegman.com/2022/12/ready-for-a-break/)
 
 
 Like this type of content? Take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)** and subscribe via its **[RSS feed](https://chriswiegman.com/feed/)**.
 
 You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Pixelfed](https:/pixelfed.chriswiegman.com)** or view **[my full resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
 
-<sub>Last updated: January 3, 2023</sub>
+<sub>Last updated: January 4, 2023</sub>
