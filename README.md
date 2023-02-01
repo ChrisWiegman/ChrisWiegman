@@ -15,6 +15,6 @@ My latest blog post is: **[Things I will miss from Apple](https://chriswiegman.c
 
 Like this type of content? Take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)** and subscribe via its **[RSS feed](https://chriswiegman.com/feed/)**.
 
-You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Pixelfed](https:/pixelfed.chriswiegman.com)** or view **[my full resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
+You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Pixelfed](https:/pixelfed.chriswiegman.com/@chris)** or view **[my full resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
 
 <sub>Last updated: February 1, 2023</sub>
