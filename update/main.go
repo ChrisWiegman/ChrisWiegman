@@ -18,8 +18,9 @@ type templateLink struct {
 }
 
 type templateVars struct {
-	Date      string
-	PostLinks []templateLink
+	Date       string
+	LatestLink templateLink
+	PostLinks  []templateLink
 }
 
 func main() {
@@ -34,21 +35,22 @@ func main() {
 
 	templateVars := templateVars{
 		Date: time.Now().Format("January 2, 2006"),
+		LatestLink: templateLink{
+			Display: feed.Items[0].Title,
+			Link:    feed.Items[0].Link,
+		},
 	}
 
-	if len(feed.Items) >= 6 {
+	index := 1
 
-		index := 0
-
-		for index <= 5 {
-			link := templateLink{
-				Display: feed.Items[index].Title,
-				Link:    feed.Items[index].Link,
-			}
-			templateVars.PostLinks = append(templateVars.PostLinks, link)
-
-			index++
+	for index <= 5 {
+		link := templateLink{
+			Display: feed.Items[index].Title,
+			Link:    feed.Items[index].Link,
 		}
+		templateVars.PostLinks = append(templateVars.PostLinks, link)
+
+		index++
 	}
 
 	tmpl := template.Must(template.New("kanaPlugin").Parse(markdownTemplate))

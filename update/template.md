@@ -5,15 +5,10 @@ I currently lead the team building [Faust.js](https://faustjs.org) as an **Engin
 My latest blog post is: **[{{ (index .PostLinks 0).Display }}]({{ (index .PostLinks 0).Link }})**.
 
 #### More recent posts from my blog:
-
-* [{{ (index .PostLinks 1).Display }}]({{ (index .PostLinks 1).Link }})
-* [{{ (index .PostLinks 2).Display }}]({{ (index .PostLinks 2).Link }})
-* [{{ (index .PostLinks 3).Display }}]({{ (index .PostLinks 3).Link }})
-* [{{ (index .PostLinks 4).Display }}]({{ (index .PostLinks 4).Link }})
-* [{{ (index .PostLinks 5).Display }}]({{ (index .PostLinks 5).Link }})
+{{ range $link := .PostLinks }}
+* [{{ $link.Display }}]({{ $link.Link }}){{ end }}
 
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed/)**.
-
 
 You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Pixelfed](https://pixelfed.chriswiegman.com/@chris)** or you can view **[my full resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
 
