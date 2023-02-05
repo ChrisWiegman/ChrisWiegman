@@ -2,7 +2,7 @@
 
 I currently lead the team building [Faust.js](https://faustjs.org) as an **Engineering Manager** for **[WP Engine](https://wpengine.com/)**. For the last 20 years I've lead various tech teams building everything from JavaScript frameworks, WordPress plugins, Chrome extensions, development environments and more. Take a look at some of my most popular projects on [my personal site](https://chriswiegman.com/about/). When not building products I enjoy teaching, mentoring an [speaking](https://chriswiegman.com/speaking/) and have been fortunate to do so at dozens of conferences, Meetups and other events over the years. Today my work, both personal and professional, focuses on improving the development experience of WordPress developers and anyone who has ever visited a WordPress site.
 
-My latest blog post is: **[Things I will miss from Apple](https://chriswiegman.com/2023/02/things-i-will-miss-from-apple/)**.
+My latest blog post is: **[My WordPress wish list](https://chriswiegman.com/2023/02/my-wordpress-wish-list/)**.
 
 #### More recent posts from my blog:
 
