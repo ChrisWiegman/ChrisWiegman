@@ -2,18 +2,18 @@
 
 I currently lead the team building **[Faust.js](https://faustjs.org)** as an **Engineering Manager** for **[WP Engine](https://wpengine.com/)**. For the last 20 years I've lead various tech teams building everything from JavaScript frameworks, WordPress plugins, Chrome extensions, development environments and more. When not building products I enjoy teaching, mentoring an **[speaking](https://chriswiegman.com/speaking/)** and have been fortunate to do so at dozens of courses, conferences, Meetups and other events over the years. Today my work, both personal and professional, focuses on improving the development experience of WordPress developers and anyone who has ever visited a WordPress site.
 
-My latest blog post is: **[Stepping back from the web](https://chriswiegman.com/2023/03/stepping-back-from-the-web/)**.
+My latest blog post is: **[First impressions of traveling again](https://chriswiegman.com/2023/03/first-impressions-of-traveling-again/)**.
 
 #### More recent posts from my blog:
 
+* [Stepping back from the web](https://chriswiegman.com/2023/03/stepping-back-from-the-web/)
 * [It’s time to work together and not be so negative](https://chriswiegman.com/2023/03/its-time-to-work-together-and-not-be-so-negative/)
 * [Mailpit, an updated alternative to Mailhog](https://chriswiegman.com/2023/03/mailpit-an-updated-alternative-to-mailhog/)
 * [New doesn’t mean “more productive”](https://chriswiegman.com/2023/03/new-doesnt-mean-more-productive/)
 * [I’m grateful for local software](https://chriswiegman.com/2023/03/im-grateful-for-local-software/)
-* [The Eternal Project](https://chriswiegman.com/2023/03/the-eternal-project/)
 
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed/)**.
 
 You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Pixelfed](https://pixelfed.chriswiegman.com/@chris)** or you can view **[my full resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
 
-<sub>Last updated: March 21, 2023</sub>
+<sub>Last updated: March 22, 2023</sub>
