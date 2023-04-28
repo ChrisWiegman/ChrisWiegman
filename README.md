@@ -2,18 +2,18 @@
 
 I lead the team building **[Faust.js](https://faustjs.org)** as an **Engineering Manager** for **[WP Engine](https://wpengine.com/)**. For the last 20 years I've lead teams building everything from JavaScript frameworks, WordPress plugins, Chrome extensions, development environments and more. When not building products I enjoy teaching, mentoring an **[speaking](https://chriswiegman.com/speaking/)** and have been fortunate to do so at dozens of courses, conferences, Meetups and other events over the years. Today my work, both personal and professional, focuses on improving the development experience of WordPress developers and anyone who has ever visited a WordPress site.
 
-My latest blog post is: **[Pausing is Hard](https://chriswiegman.com/2023/04/pausing-is-hard/)**.
+My latest blog post is: **[I Miss You Mom](https://chriswiegman.com/2023/04/i-miss-you-mom/)**.
 
 #### More recent posts from my blog:
 
+* [Pausing is Hard](https://chriswiegman.com/2023/04/pausing-is-hard/)
 * [Life is Hard](https://chriswiegman.com/2023/04/life-is-hard/)
 * [Another Week is Done](https://chriswiegman.com/2023/04/another-week-is-done/)
 * [Revisiting My Thoughts on Remote Work](https://chriswiegman.com/2023/04/revisiting-my-thoughts-on-remote-work/)
 * [Now with 50% fewer images](https://chriswiegman.com/2023/04/now-with-50-fewer-images/)
-* [The fast pace of change in tech](https://chriswiegman.com/2023/03/the-fast-pace-of-change-in-tech/)
 
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed/)**.
 
 You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Pixelfed](https://pixelfed.chriswiegman.com/@chris)** or you can view **[my full resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
 
-<sub>Last updated: April 27, 2023</sub>
+<sub>Last updated: April 28, 2023</sub>
