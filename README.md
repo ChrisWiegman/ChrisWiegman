@@ -6,14 +6,20 @@ My latest blog post is: **[Back in Florida](https://chriswiegman.com/2023/05/bac
 
 #### More recent posts from my blog:
 
-* [Almost “home”](https://chriswiegman.com/2023/05/almost-home/)
-* [I miss my office](https://chriswiegman.com/2023/05/i-miss-my-office/)
-* [Site Migrations are Hard](https://chriswiegman.com/2023/05/site-migrations-are-hard/)
-* [Grateful for Friday](https://chriswiegman.com/2023/05/grateful-for-friday/)
-* [The Real Test Begins](https://chriswiegman.com/2023/05/the-real-test-begins/)
+
+
+- [Almost “home”](https://chriswiegman.com/2023/05/almost-home/)
+
+- [I miss my office](https://chriswiegman.com/2023/05/i-miss-my-office/)
+
+- [Site Migrations are Hard](https://chriswiegman.com/2023/05/site-migrations-are-hard/)
+
+- [Grateful for Friday](https://chriswiegman.com/2023/05/grateful-for-friday/)
+
+- [The Real Test Begins](https://chriswiegman.com/2023/05/the-real-test-begins/)
 
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed/)**.
 
-You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** or you can view **[my full resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
+You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** or you can view **[my resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
 
 <sub>Last updated: May 23, 2023</sub>
