@@ -10,6 +10,6 @@ My latest blog post is: **[{{ .LatestLink.Display }}]({{ .LatestLink.Link }})**.
 
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed/)**.
 
-You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[Pixelfed](https://pixelfed.chriswiegman.com/@chris)** or you can view **[my full resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
+You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** or you can view **[my full resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
 
 <sub>Last updated: {{ .Date }}</sub>
