@@ -1,6 +1,6 @@
 ### Hi! I am Chris Wiegman
 
-I lead the team building **[Faust.js](https://faustjs.org)** as an **Engineering Manager** for **[WP Engine](https://wpengine.com/)**. For the last 20 years I've lead teams building everything from JavaScript frameworks, WordPress plugins, Chrome extensions, development environments and more. When not building products I enjoy teaching, mentoring an **[speaking](https://chriswiegman.com/speaking/)** and have been fortunate to do so at dozens of courses, conferences, Meetups and other events over the years. Today my work, both personal and professional, focuses on improving the development experience of WordPress developers and anyone who has ever visited a WordPress site.
+I lead the team building **[Faust.js](https://faustjs.org)** as an **Engineering Manager** for **[WP Engine](https://wpengine.com/)**. For the last 20 years I've lead teams building everything from JavaScript frameworks, WordPress plugins, Chrome extensions, development environments and more. When not building products I enjoy teaching, mentoring and **[speaking](https://chriswiegman.com/speaking/)** and have been fortunate to do so at dozens of courses, conferences, Meetups and other events over the years. Today my work, both personal and professional, focuses on improving the development experience of WordPress developers and anyone who has ever visited a WordPress site.
 
 My latest blog post is: **[{{ .LatestLink.Display }}]({{ .LatestLink.Link }})**.
 
