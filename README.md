@@ -1,12 +1,14 @@
-### Hi! I am Chris Wiegman
+### Hello! I'm Chris Wiegman
 
-I lead the team building **[Faust.js](https://faustjs.org)** as an **Engineering Manager** for **[WP Engine](https://wpengine.com/)**. For the last 20 years I've lead teams building everything from JavaScript frameworks, WordPress plugins, Chrome extensions, development environments and more. When not building products I enjoy teaching, mentoring and **[speaking](https://chriswiegman.com/speaking/)** and have been fortunate to do so at dozens of courses, conferences, Meetups and other events over the years. Today my work, both personal and professional, focuses on improving the development experience of WordPress developers and anyone who has ever visited a WordPress site.
+I lead the teams building **[Faust.js](https://faustjs.org)** and [WPGraphQL](https://www.wpgraphql.com) as an **Engineering Manager** for **[WP Engine](https://wpengine.com/)**. Throughout my career I've lead teams building everything from JavaScript frameworks, WordPress plugins, Chrome extensions, development environments and more. When not building developer tools I enjoy teaching, mentoring and **[speaking](https://chriswiegman.com/speaking/)** and have been fortunate to do so at dozens of conferences, Meetups and other events. Today my work, both personal and professional, focuses on improving the development experience of WordPress developers and anyone who has ever visited a WordPress site.
 
-My latest blog post is: **[Friday, 8 September 2023](https://chriswiegman.com/2023/09/friday-8-september-2023/)**.
+My latest blog post is: **[We Found a Condo](https://chriswiegman.com/2023/09/we-found-a-condo/)**.
 
 #### More recent posts from my blog:
 
 
+
+- [Friday, 8 September 2023](https://chriswiegman.com/2023/09/friday-8-september-2023/)
 
 - [Where is the Positivity?](https://chriswiegman.com/2023/09/where-is-the-positivity/)
 
@@ -16,10 +18,8 @@ My latest blog post is: **[Friday, 8 September 2023](https://chriswiegman.com/20
 
 - [Thinking of Going Back to JetBrains](https://chriswiegman.com/2023/08/thinking-of-going-back-to-jetbrains/)
 
-- [Time is Growing Short](https://chriswiegman.com/2023/08/time-is-growing-short/)
-
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed/)**.
 
 You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** or you can view **[my resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
 
-<sub>Last updated: September 10, 2023</sub>
+<sub>Last updated: September 11, 2023</sub>
