@@ -1,6 +1,6 @@
 ### Hello! I'm Chris Wiegman
 
-I lead the teams building **[Faust.js](https://faustjs.org)** and [WPGraphQL](https://www.wpgraphql.com) as an **Engineering Manager** for **[WP Engine](https://wpengine.com/)**. Throughout my career I've lead teams building everything from JavaScript frameworks, WordPress plugins, Chrome extensions, development environments and more. When not building developer tools I enjoy teaching, mentoring and **[speaking](https://chriswiegman.com/speaking/)** and have been fortunate to do so at dozens of conferences, Meetups and other events. Today my work, both personal and professional, focuses on improving the development experience of WordPress developers and anyone who has ever visited a WordPress site.
+I lead the teams building **[Faust.js](https://faustjs.org)** and **[WPGraphQL](https://www.wpgraphql.com)** as an **Engineering Manager** for **[WP Engine](https://wpengine.com/)**. Throughout my career I've lead teams building everything from JavaScript frameworks, WordPress plugins, Chrome extensions, development environments and more. When not building developer tools I enjoy teaching, mentoring and **[speaking](https://chriswiegman.com/speaking/)** and have been fortunate to do so at dozens of conferences, Meetups and other events. Today my work, both personal and professional, focuses on improving the development experience of WordPress developers and anyone who has ever visited a WordPress site.
 
 My latest blog post is: **[We Found a Condo](https://chriswiegman.com/2023/09/we-found-a-condo/)**.
 
