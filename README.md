@@ -22,4 +22,4 @@ If you like my posts take a look at my site, **[chriswiegman.com](https://chrisw
 
 You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** or you can view **[my resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
 
-<sub>Last updated: December 15, 2023</sub>
+<sub>Last updated: December 16, 2023</sub>
