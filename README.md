@@ -2,11 +2,13 @@
 
 I lead the teams building **[Faust.js](https://faustjs.org)** and **[WPGraphQL](https://www.wpgraphql.com)** as an **Engineering Manager** for **[WP Engine](https://wpengine.com/)**. Throughout my career I've lead teams building everything from JavaScript frameworks, WordPress plugins, Chrome extensions, development environments and more. When not building software I enjoy teaching, mentoring and **[speaking](https://chriswiegman.com/speaking/)** and have been fortunate to do so at dozens of conferences, Meetups and other events. Today my work, both personal and professional, focuses on improving the development experience of WordPress developers and anyone who has ever visited a WordPress site.
 
-My latest blog post is: **[Merry Christmas](https://chriswiegman.com/2023/12/merry-christmas-2/)**.
+My latest blog post is: **[The Move That Never Ends](https://chriswiegman.com/2023/12/the-move-that-never-ends/)**.
 
 #### More recent posts from my blog:
 
 
+
+- [Merry Christmas](https://chriswiegman.com/2023/12/merry-christmas-2/)
 
 - [Time for a Holiday](https://chriswiegman.com/2023/12/time-for-a-holiday/)
 
@@ -16,10 +18,8 @@ My latest blog post is: **[Merry Christmas](https://chriswiegman.com/2023/12/mer
 
 - [Rest in Peace, My Friend](https://chriswiegman.com/2023/12/rest-in-peace-my-friend/)
 
-- [My Tech In 2024](https://chriswiegman.com/2023/12/my-tech-in-2024/)
-
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed/)**.
 
 You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** or you can view **[my resume](https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01)**.
 
-<sub>Last updated: December 26, 2023</sub>
+<sub>Last updated: December 27, 2023</sub>
