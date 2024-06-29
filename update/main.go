@@ -24,7 +24,6 @@ type templateVars struct {
 }
 
 func main() {
-
 	fp := gofeed.NewParser()
 
 	feed, err := fp.ParseURL("https://chriswiegman.com/feed/")
@@ -54,7 +53,6 @@ func main() {
 	}
 
 	tmpl := template.Must(template.New("kanaPlugin").Parse(markdownTemplate))
-
 	myFile, _ := os.Create("../README.md")
 
 	tmpl.Execute(myFile, templateVars)
