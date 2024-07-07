@@ -1,6 +1,6 @@
 ### Hello! I'm Chris Wiegman
 
-I am a Sr. Staff Software Engineer on the teams building **[Atlas](https://wpengine.com/headless-wordpress/)** for **[WP Engine](https://wpengine.com/)**. Throughout my career I've lead teams building everything from JavaScript frameworks, WordPress plugins, Chrome extensions, development environments and more. When not building software I enjoy teaching, mentoring and **[speaking](https://chriswiegman.com/speaking/)** and have been fortunate to do so at dozens of conferences, Meetups and other events. Today my work, both personal and professional, focuses on the intersection of development, privacy, ethics and usability of software and development to help improve the lives of everyone who uses modern technology.
+I am a Software Engineering Manager leading teams at SuperFile. He has been working with open-source software since 2007 and has built one of the largest WordPress security plugins as well as various WordPress plugins and themes, Google Chrome extensions and developer tools for clients of all sizes. A teacher at heart, I've has spoken at numerous conferences around the world on topics such as development, privacy and business as well as taught both computer science and aviation for universities throughout the US.
 
 My latest blog post is: **[{{ .LatestLink.Display }}]({{ .LatestLink.Link }})**
 
