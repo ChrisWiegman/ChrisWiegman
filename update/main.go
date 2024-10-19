@@ -26,7 +26,7 @@ type templateVars struct {
 func main() {
 	fp := gofeed.NewParser()
 
-	feed, err := fp.ParseURL("https://chriswiegman.com/feed/")
+	feed, err := fp.ParseURL("https://chriswiegman.com/index.xml")
 	if err != nil {
 		log.Fatalf("error getting feed: %v", err)
 		os.Exit(1)
