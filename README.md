@@ -2,11 +2,13 @@
 
 I am the Vice President of Engineering leading the teams at SuperFile. I have been building software teams and products for more than 20 years including one of the largest WordPress security plugins as well as various WordPress plugins and themes, Google Chrome extensions and developer tools for clients of all sizes. A teacher at heart, I've have spoken at numerous conferences around the world on topics such as development, privacy and business as well as taught both computer science and aviation for universities throughout the US.
 
-*My latest blog post*: **[I'm back](https://chriswiegman.com/2024/10/im-back/)**
+*My latest blog post*: **[Focusing on My Health](https://chriswiegman.com/2024/10/focusing-on-my-health/)**
 
 #### More recent posts from my blog:
 
 
+
+- [I'm back](https://chriswiegman.com/2024/10/im-back/)
 
 - [Tired](https://chriswiegman.com/2024/09/tired/)
 
@@ -16,10 +18,8 @@ I am the Vice President of Engineering leading the teams at SuperFile. I have be
 
 - [Good Riddance, August](https://chriswiegman.com/2024/08/good-riddance-august/)
 
-- [Wednesday, 28 August, 2024](https://chriswiegman.com/2024/08/wednesday-28-august-2024/)
-
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed/)**.
 
 You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** or **[LinkedIn](https://www.linkedin.com/in/chriswiegman)** or you can view **[my resume](https://cfw.cx/resume)**.
 
-<sub>Last updated: October 22, 2024</sub>
+<sub>Last updated: October 23, 2024</sub>
