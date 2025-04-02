@@ -32,4 +32,4 @@ If you like my posts take a look at my site, **[chriswiegman.com](https://chrisw
 
 You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** or **[LinkedIn](https://www.linkedin.com/in/chriswiegman)** or you can view **[my resume](https://cwie.co/resume)**.
 
-<sub>Last updated: April 1, 2025</sub>
+<sub>Last updated: April 2, 2025</sub>
