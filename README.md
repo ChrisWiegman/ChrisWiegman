@@ -2,11 +2,13 @@
 
 I am the Vice President of Engineering leading the teams at SuperFile. I have been building software teams and products for more most of my life and my bigger projects include one of the largest WordPress security plugins as well as various WordPress plugins and themes, Google Chrome extensions and developer tools for humans and teams of all sizes. I'm a teacher at heart and have spoken at numerous conferences around the world on topics such as development, privacy and business and has taught both computer science and aviation for universities throughout the US. Today my interests span a wide range of topics in technology but generally focus on building human and sustainable solutions to real problems.
 
-*My latest blog post*: **[Wednesday, 23 April, 2025](https://chriswiegman.com/2025/04/wednesday-23-april-2025/)**
+*My latest blog post*: **[Friday, 25 April, 2025](https://chriswiegman.com/2025/04/friday-25-april-2025/)**
 
 #### More recent posts from my blog:
 
 
+
+- [Wednesday, 23 April, 2025](https://chriswiegman.com/2025/04/wednesday-23-april-2025/)
 
 - [RIP Pope Francis](https://chriswiegman.com/2025/04/rip-pope-francis/)
 
@@ -26,10 +28,8 @@ I am the Vice President of Engineering leading the teams at SuperFile. I have be
 
 - [Rejoining the World](https://chriswiegman.com/2025/04/rejoining-the-world/)
 
-- [Refocusing on Building, Not Reinventing the Wheel](https://chriswiegman.com/2025/03/refocusing-on-building-not-reinventing-the-wheel/)
-
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/index.xml)**.
 
 You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** or **[LinkedIn](https://www.linkedin.com/in/chriswiegman)** or you can view **[my resume](https://cwie.co/resume)**.
 
-<sub>Last updated: April 25, 2025</sub>
+<sub>Last updated: April 26, 2025</sub>
