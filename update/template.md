@@ -12,6 +12,6 @@ I am the Vice President of Engineering leading the teams at SuperFile. I have be
 
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/index.xml)**.
 
-You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** or **[LinkedIn](https://www.linkedin.com/in/chriswiegman)** or you can view **[my resume](https://cwie.co/resume)**.
+You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[LinkedIn](https://www.linkedin.com/in/chriswiegman)** or you can view **[my resume](https://cwie.co/resume)**.
 
 <sub>Last updated: {{ .Date }}</sub>
