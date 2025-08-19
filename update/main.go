@@ -26,7 +26,7 @@ type templateVars struct {
 func main() {
 	fp := gofeed.NewParser()
 
-	feed, err := fp.ParseURL("https://chriswiegman.com/index.xml")
+	feed, err := fp.ParseURL("https://chriswiegman.com/feed/")
 	if err != nil {
 		log.Fatalf("error getting feed: %v", err)
 		os.Exit(1)
@@ -42,7 +42,7 @@ func main() {
 
 	index := 1
 
-	for index <= 10 {
+	for index <= 6 {
 		link := templateLink{
 			Display: feed.Items[index].Title,
 			Link:    feed.Items[index].Link,
