@@ -2,11 +2,13 @@
 
 I am a developer, educator, blogger and open-source contributor dedicated to creating human-centered, privacy-focused technology. Over the past two decades, I have built everything from WordPress plugins (including iThemes Security) to Chrome extensions, development environments and developer tools. A teacher at heart, I have lectured in aviation and computer science, mentored emerging technologists, and spoken at conferences worldwide. A former pilot turned software engineer, I remain passionate about building ethical, sustainable tools for real people.
 
-_My latest blog post_: **[Revisiting How I Use Social Media](https://chriswiegman.com/2025/09/revisiting-how-i-use-social-media/)**
+_My latest blog post_: **[Learning to Work From Home Again](https://chriswiegman.com/2025/09/learning-to-work-from-home-again/)**
 
 #### More recent posts from my blog:
 
 
+
+- [Revisiting How I Use Social Media](https://chriswiegman.com/2025/09/revisiting-how-i-use-social-media/)
 
 - [August Has Been a  Heck of a Year](https://chriswiegman.com/2025/08/august-has-been-a-heck-of-a-year/)
 
@@ -18,10 +20,8 @@ _My latest blog post_: **[Revisiting How I Use Social Media](https://chriswiegma
 
 - [One Week with a CMS](https://chriswiegman.com/2025/08/one-week-with-a-cms/)
 
-- [Linux or iPad or Mac… Oh My](https://chriswiegman.com/2025/08/linux-or-ipad-or-mac-oh-my/)
-
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed)**.
 
 You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[LinkedIn](https://www.linkedin.com/in/chriswiegman)** or you can view **[my resume](https://cwie.co/resume)**.
 
-<sub>Last updated: September 2, 2025</sub>
+<sub>Last updated: September 3, 2025</sub>
