@@ -22,6 +22,6 @@ _My latest blog post_: **[Time To Upgrade Devices, Again](https://chriswiegman.c
 
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed)**.
 
-You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)** and **[LinkedIn](https://www.linkedin.com/in/chriswiegman)** or you can view **[my resume](https://cwie.co/resume)**.
+You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)**, **[Bluesky](https://bsky.app/profile/chriswiegman.com)** and **[LinkedIn](https://www.linkedin.com/in/chriswiegman)**.
 
-<sub>Last updated: September 13, 2025</sub>
+<sub>Last updated: September 14, 2025</sub>
