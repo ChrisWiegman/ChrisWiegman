@@ -1,6 +1,6 @@
 module github.com/chriswiegman/chriswiegman/update
 
-go 1.24
+go 1.25
 
 require github.com/mmcdole/gofeed v1.3.0
 
@@ -11,6 +11,6 @@ require (
 	github.com/mmcdole/goxpp v1.1.1 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	golang.org/x/net v0.43.0 // indirect
-	golang.org/x/text v0.28.0 // indirect
+	golang.org/x/net v0.44.0 // indirect
+	golang.org/x/text v0.29.0 // indirect
 )
