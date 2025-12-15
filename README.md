@@ -2,11 +2,13 @@
 
 I am a developer, educator, blogger and open-source contributor dedicated to creating human-centered, privacy-focused technology. Over the past two decades, I have built everything from WordPress plugins (including iThemes Security) to Chrome extensions, development environments and developer tools. A teacher at heart, I have lectured in aviation and computer science, mentored emerging technologists, and spoken at conferences worldwide. A former pilot turned software engineer, I remain passionate about building ethical, sustainable tools for real people.
 
-_My latest blog post_: **[2 Months, 2 Years and a Lifetime](https://chriswiegman.com/2025/10/2-months-2-years-and-a-lifetime/)**
+_My latest blog post_: **[So long to Kana, my last WordPress project](https://chriswiegman.com/2025/12/so-long-to-kana-my-last-wordpress-project/)**
 
 #### More recent posts from my blog:
 
 
+
+- [2 Months, 2 Years and a Lifetime](https://chriswiegman.com/2025/10/2-months-2-years-and-a-lifetime/)
 
 - [Good Riddance, September](https://chriswiegman.com/2025/09/good-riddance-september/)
 
@@ -18,10 +20,8 @@ _My latest blog post_: **[2 Months, 2 Years and a Lifetime](https://chriswiegman
 
 - [Time To Upgrade Devices, Again](https://chriswiegman.com/2025/09/time-to-upgrade-devices-again/)
 
-- [My First Impression of Apple’s New Operating Systems](https://chriswiegman.com/2025/09/my-first-impression-of-apples-new-operating-systems/)
-
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed)**.
 
 You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)**, **[Bluesky](https://bsky.app/profile/chriswiegman.com)** and **[LinkedIn](https://www.linkedin.com/in/chriswiegman)**.
 
-<sub>Last updated: December 14, 2025</sub>
+<sub>Last updated: December 15, 2025</sub>
