@@ -2,26 +2,26 @@
 
 I am a developer, educator, blogger and open-source contributor dedicated to creating human-centered, privacy-focused technology. Over the past two decades, I have built everything from WordPress plugins (including iThemes Security) to Chrome extensions, development environments and developer tools. A teacher at heart, I have lectured in aviation and computer science, mentored emerging technologists, and spoken at conferences worldwide. A former pilot turned software engineer, I remain passionate about building ethical, sustainable tools for real people.
 
-_My latest blog post_: **[A new type of development for me](https://chriswiegman.com/2025/12/a-new-type-of-development-for-me/)**
+_My latest blog post_: **[A (Hopefully) Final Move Back to Hugo](/2025/12/a-hopefully-final-move-back-to-hugo/)**
 
 #### More recent posts from my blog:
 
 
 
-- [So long to Kana, my last WordPress project](https://chriswiegman.com/2025/12/so-long-to-kana-my-last-wordpress-project/)
+- [A new type of development for me](/2025/12/a-new-type-of-development-for-me/)
 
-- [2 Months, 2 Years and a Lifetime](https://chriswiegman.com/2025/10/2-months-2-years-and-a-lifetime/)
+- [So long to Kana, my last WordPress project](/2025/12/so-long-to-kana-my-last-wordpress-project/)
 
-- [Good Riddance, September](https://chriswiegman.com/2025/09/good-riddance-september/)
+- [2 Months, 2 Years and a Lifetime](/2025/10/2-months-2-years-and-a-lifetime/)
 
-- [Finding a balance with tech](https://chriswiegman.com/2025/09/finding-a-balance-with-tech/)
+- [Good Riddance, September](/2025/09/good-riddance-september/)
 
-- [New phone? It’s time to review your privacy settings](https://chriswiegman.com/2025/09/new-phone-its-time-to-review-your-privacy-settings/)
+- [Finding a balance with tech](/2025/09/finding-a-balance-with-tech/)
 
-- [Tech that actually works](https://chriswiegman.com/2025/09/tech-that-actually-works/)
+- [New phone? It’s time to review your privacy settings](/2025/09/new-phone-its-time-to-review-your-privacy-settings/)
 
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/feed)**.
 
 You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)**, **[Bluesky](https://bsky.app/profile/chriswiegman.com)** and **[LinkedIn](https://www.linkedin.com/in/chriswiegman)**.
 
-<sub>Last updated: December 23, 2025</sub>
+<sub>Last updated: December 24, 2025</sub>
