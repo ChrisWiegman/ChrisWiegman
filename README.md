@@ -24,4 +24,4 @@ If you like my posts take a look at my site, **[chriswiegman.com](https://chrisw
 
 You can find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)**, **[Bluesky](https://bsky.app/profile/chriswiegman.com)** and **[LinkedIn](https://www.linkedin.com/in/chriswiegman)**.
 
-<sub>Last updated: January 16, 2026</sub>
+<sub>Last updated: January 17, 2026</sub>
