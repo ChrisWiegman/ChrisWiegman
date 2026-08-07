@@ -2,11 +2,13 @@
 
 I'm a tech leader, mentor, blogger, and open-source contributor dedicated to building human-centered, privacy-focused technology. Over the past two decades, I've built everything from WordPress plugins to Chrome extensions, development environments, and developer tools; and now I lead the teams who build what comes next. A teacher at heart, I've lectured in aviation and computer science, mentored emerging technologists, and spoken at conferences worldwide. A former pilot turned software engineer, I remain passionate about ethical, sustainable technology and the people who create it.
 
-_My latest post_: **[Why I Still Bother with RSS in 2026](https://chriswiegman.com/2026/08/why-i-still-bother-with-rss-in-2026/)**
+_My latest post_: **[My Hugo Theme Continues to Evolve](https://chriswiegman.com/2026/08/my-hugo-theme-continues-to-evolve/)**
 
 #### More recent posts from my blog:
 
 
+
+- [Why I Still Bother with RSS in 2026](https://chriswiegman.com/2026/08/why-i-still-bother-with-rss-in-2026/)
 
 - [Battling Link Rot on a Hugo Site](https://chriswiegman.com/2026/08/battling-link-rot-on-a-hugo-site/)
 
@@ -18,10 +20,8 @@ _My latest post_: **[Why I Still Bother with RSS in 2026](https://chriswiegman.c
 
 - [Basic Stats for This Site](https://chriswiegman.com/2026/02/basic-stats-for-this-site/)
 
-- [You Probably Don’t Need a Content Management System](https://chriswiegman.com/2026/02/you-probably-dont-need-a-content-management-system/)
-
 If you like my posts take a look at my site, **[chriswiegman.com](https://chriswiegman.com/)**, and subscribe to get them in your favorite feed reader via **[RSS](https://chriswiegman.com/index.xml)**.
 
 You can also find me on **[Mastodon](https://mastodon.chriswiegman.com/@chris)**, **[Bluesky](https://bsky.app/profile/chriswiegman.com)** and **[LinkedIn](https://www.linkedin.com/in/chriswiegman)**.
 
-<sub>Last updated: August 5, 2026</sub>
+<sub>Last updated: August 7, 2026</sub>
